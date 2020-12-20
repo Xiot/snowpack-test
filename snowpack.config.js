@@ -11,6 +11,7 @@ module.exports = {
     /* ... */
   ],
   installOptions: {
+    sourceMap: true,
     /* ... */
   },
   devOptions: {
